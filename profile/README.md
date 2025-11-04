@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td style="width: 300px; vertical-align: middle;">
-      <img src="eewpw-logo-large-v1.png" alt="EEWPW Logo" width="300"/>
+      <img src="eewpw-logo-large-v1.png" alt="EEWPW Logo" width="400"/>
     </td>
     <td style="vertical-align: middle;">
       <strong>EEWPW</strong> is a modular, open-source framework for analyzing and visualizing the performance of Earthquake Early Warning (EEW) systems. 
