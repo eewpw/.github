@@ -2,7 +2,7 @@
 
 <table>
   <tr>
-    <td style="width: 220px; vertical-align: middle;">
+    <td style="width: 300px; vertical-align: middle;">
       <img src="eewpw-logo-large-v1.png" alt="EEWPW Logo" width="200"/>
     </td>
     <td style="vertical-align: middle;">
