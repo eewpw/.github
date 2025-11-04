@@ -1,11 +1,16 @@
 # EEWPW – Earthquake Early Warning Performance Viewer
 
-<p align="center">
-  <img src="eewpw-logo-large-v1.png" alt="EEWPW Logo" width="200"/>
-</p>
-
-
-**EEWPW** is a modular, open-source framework for analyzing and visualizing the performance of Earthquake Early Warning (EEW) systems. It integrates real-time detections, playback data, and algorithm outputs into a unified, interactive platform for both scientific and operational use.
+<table>
+  <tr>
+    <td style="width: 220px; vertical-align: middle;">
+      <img src="eewpw-logo-large-v1.png" alt="EEWPW Logo" width="200"/>
+    </td>
+    <td style="vertical-align: middle;">
+      <strong>EEWPW</strong> is a modular, open-source framework for analyzing and visualizing the performance of Earthquake Early Warning (EEW) systems. 
+      It integrates real-time detections, playback data, and algorithm outputs into a unified, interactive platform for both scientific and operational use.
+    </td>
+  </tr>
+</table>
 
 ---
 
