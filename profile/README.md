@@ -1,7 +1,9 @@
+# EEWPW – Earthquake Early Warning Performance Viewer
+
 <p align="center">
   <img src="eewpw-logo-large-v1.png" alt="EEWPW Logo" width="200"/>
 </p>
-# EEWPW – Earthquake Early Warning Performance Viewer
+
 
 **EEWPW** is a modular, open-source framework for analyzing and visualizing the performance of Earthquake Early Warning (EEW) systems. It integrates real-time detections, playback data, and algorithm outputs into a unified, interactive platform for both scientific and operational use.
 
@@ -74,9 +76,9 @@ For detailed installation and configuration instructions, see the
 
 | Repository | Description |
 |-------------|-------------|
-| [**eewpw-backend**](https://github.com/eewpw/eewpw-backend) | FastAPI backend providing data APIs, upload handling, and caching |
-| [**eewpw-dashboard**](https://github.com/eewpw/eewpw-dashboard) | Interactive Dash/Plotly frontend for EEW performance visualization |
 | [**eewpw**](https://github.com/eewpw/eewpw) | Docker Compose deployment with Makefile targets and smoke tests |
+| [**eewpw-dashboard**](https://github.com/eewpw/eewpw-dashboard) | Interactive Dash/Plotly frontend for EEW performance visualization |
+| [**eewpw-backend**](https://github.com/eewpw/eewpw-backend) | FastAPI backend providing data APIs, upload handling, and caching |
 | [**eewpw-update-status**](https://github.com/eewpw/eewpw-update-status) | Provides image digests for update notifications |
 
 ---
