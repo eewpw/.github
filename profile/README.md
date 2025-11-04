@@ -51,27 +51,6 @@ flowchart TB
     BE -- read cfg --> D_CFG
 ```
 
----
-
-## Getting Started
-
-To run EEWPW locally, use the [deployment repository](https://github.com/eewpw/eewpw):
-
-```bash
-git clone https://github.com/eewpw/eewpw.git
-cd eewpw
-cp .env.example .env
-make up
-make smoke
-```
-
-Once deployed, open **http://localhost:8050** to access the dashboard.
-
-For detailed installation and configuration instructions, see the  
-[**eewpw/eewpw** repository](https://github.com/eewpw/eewpw).
-
----
-
 ## Repositories
 
 | Repository | Description |
@@ -81,18 +60,5 @@ For detailed installation and configuration instructions, see the
 | [**eewpw-backend**](https://github.com/eewpw/eewpw-backend) | FastAPI backend providing data APIs, upload handling, and caching |
 | [**eewpw-update-status**](https://github.com/eewpw/eewpw-update-status) | Provides image digests for update notifications |
 
----
-
-## Contributing
-
-EEWPW is developed and maintained by **S. Ceylan** and collaborators at **ETH Zurich / SED**.  
-Contributions, issue reports, and discussions are welcome across all repositories.  
-
----
-
-## Additional Resources
-
-- Deployment documentation: [eewpw/eewpw README](https://github.com/eewpw/eewpw/blob/master/README.md)
-
----
+----
 
