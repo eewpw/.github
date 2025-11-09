@@ -1,4 +1,4 @@
-# EEWPW – Earthquake Early Warning Performance Viewer
+# EEWPW – Earthquake Early Warning Performance Workpackage
 
 <table>
   <tr>
@@ -16,7 +16,7 @@
 ## Key Features
 
 - **Backend API** – FastAPI-based service for data management, uploads, indexing, and streaming  
-- **Dashboard** – Dash/Plotly web application for interactive performance visualization  
+- **Dashboard** – The **viewer** component: Dash/Plotly web application for interactive performance visualization
 - **Deployment Stack** – Docker Compose environment bundling backend, frontend, and Redis cache  
 - **Update Channel** – Automated image digest tracking for version control and upgrade notifications  
 - **Planned Expansion** – AI-driven parser and monitoring agent for automated log analysis and performance scoring
