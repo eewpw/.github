@@ -13,6 +13,11 @@
 
 ---
 
+### Acknowledgment
+Development of EEWPW is supported by the U.S. Geological Survey ShakeAlert project.
+
+---
+
 ## Key Features
 
 - **Backend API** – FastAPI-based service for data management, uploads, indexing, and streaming  
